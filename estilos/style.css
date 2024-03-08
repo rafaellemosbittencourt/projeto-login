@@ -25,16 +25,17 @@ main{
     padding-bottom: 15px;
     border-radius: 30px;
 }
-
-div.botao{
-    background-color: blueviolet;
-}
 h1{
     padding: 10px;
 }
 p{
     padding: 10px;
     font-size: 0.8em;
+}
+span{
+    background-color: purple;
+    color: white;
+    
 }
 input{
     margin: 2px;
