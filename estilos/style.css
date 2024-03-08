@@ -60,5 +60,7 @@ div#esq-senha > input{
     padding: 5px;
     width: 80%;
 }
-
+.material-symbols-outlined{
+    text-align: center;
+}
 
