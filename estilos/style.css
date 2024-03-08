@@ -6,12 +6,14 @@
 }
 body{
     background-color: bisque;
+    width: 200px;
+    margin: auto;
+    
 }
 img{
     width: 50vw;
 }
 main{
-    margin: auto;
     width: 50vw;
     background-color: white;
     text-align: center;
@@ -21,7 +23,6 @@ iframe{
     width: 400px;
     height: 500px;
     display: block;
-    margin: auto;
 }
 input{
     margin: 2px;
