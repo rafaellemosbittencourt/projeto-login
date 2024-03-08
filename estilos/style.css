@@ -6,24 +6,34 @@
 }
 body{
     background-color: bisque;
-    width: 200px;
-    margin: auto;
     
 }
 img{
     width: 50vw;
 }
 main{
+    
+    background-color: white;
+    text-align: center;
+    margin: 0px;
+}
+section{
     width: 50vw;
     background-color: white;
     text-align: center;
     margin: 0px;
 }
-iframe{
-    width: 400px;
-    height: 500px;
-    display: block;
+#container{
+    position: relative;
 }
+#login{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, 10%);
+    
+}
+
 input{
     margin: 2px;
 }
