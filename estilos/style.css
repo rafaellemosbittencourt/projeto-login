@@ -11,13 +11,13 @@ body{
     
 }
 img{
-    width: 60vw;
+    width: 70vw;
     padding: 0px;
 }
 main{
     background-color: white;
     text-align: center;
-    width: 60vw;
+    width: 70vw;
     position: absolute;
     left: 50%;
     top: 50%;
