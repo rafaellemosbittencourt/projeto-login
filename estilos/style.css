@@ -11,12 +11,12 @@ body{
     
 }
 img{
-    width: 200px;
+    width: 60vw;
 }
 main{
     background-color: white;
     text-align: center;
-    width: 200px;
+    width: 60vw;
     position: absolute;
     left: 50%;
     top: 50%;
