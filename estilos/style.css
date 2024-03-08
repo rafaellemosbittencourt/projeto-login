@@ -13,12 +13,12 @@ img{
     width: 400px;
 }
 main{
-    
+    position: relative;
     background-color: white;
     text-align: center;
     width: 400px;
     margin: auto;
-    
+    top:200px;
 }
 input{
     margin: 2px;
