@@ -12,6 +12,7 @@ body{
 }
 img{
     width: 60vw;
+    padding: 0px;
 }
 main{
     background-color: white;
@@ -21,8 +22,16 @@ main{
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
+    padding-bottom: 15px;
+}
+
+div.botao{
+    background-color: blueviolet;
 }
 h1{
+    padding: 10px;
+}
+p{
     padding: 10px;
 }
 input{
