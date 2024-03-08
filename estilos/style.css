@@ -10,15 +10,14 @@ body{
     
 }
 img{
-    width: 50vw;
+    width: 70vw;
 }
 main{
     position: relative;
     background-color: white;
     text-align: center;
-    width: 50vw;
+    width: 70vw;
     margin: auto;
-    top:200px;
 }
 input{
     margin: 2px;
