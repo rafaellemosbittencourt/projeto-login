@@ -3,37 +3,23 @@
 *{
     padding: 0px;
     margin: 0px;
+    box-sizing: border-box;
 }
 body{
     background-color: bisque;
     
 }
 img{
-    width: 50vw;
+    width: 400px;
 }
 main{
     
     background-color: white;
     text-align: center;
-    margin: 0px;
-}
-section{
-    width: 50vw;
-    background-color: white;
-    text-align: center;
-    margin: 0px;
-}
-#container{
-    position: relative;
-}
-#login{
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
+    width: 400px;
+    margin: auto;
     
 }
-
 input{
     margin: 2px;
 }
