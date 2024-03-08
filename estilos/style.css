@@ -10,7 +10,7 @@ body{
     
 }
 img{
-    width: 300px;
+    width: 200px;
 }
 #container{
     position: relative;
@@ -18,7 +18,7 @@ img{
 main{
     background-color: white;
     text-align: center;
-    width: 300px;
+    width: 200px;
     position: absolute;
     left: 50%;
     top: 50%;
