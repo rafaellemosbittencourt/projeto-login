@@ -10,13 +10,13 @@ body{
     
 }
 img{
-    width: 400px;
+    width: 50vw;
 }
 main{
     position: relative;
     background-color: white;
     text-align: center;
-    width: 400px;
+    width: 50vw;
     margin: auto;
     top:200px;
 }
