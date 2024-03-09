@@ -37,7 +37,7 @@
 }
 
 
-@media screen and (min-width:992px){
+@media screen and (min-width:992px) and (max-width:1200px){
     body{
         background-color: aquamarine;
     }
@@ -55,8 +55,11 @@
         width: 990px;
         height: 500px;
     }
+    p{
+        font-size: 0.5em;
+    }
 }
-@media screen and (min-width:992px){
+@media screen and (min-width:1200px){
     img{
         display: block;
         float: left;
