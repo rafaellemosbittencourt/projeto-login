@@ -42,7 +42,7 @@ span{
     color: white;
     margin: 2px;
     border-radius: 10px;
-    width: 80vw;
+    width: 80%;
 }
 input{
     margin: 2px;
@@ -52,7 +52,7 @@ input#imail, input#isenha{
     background-color: aquamarine;
     border-radius: 10px;
     padding: 5px;
-    width: 60vw;
+    width: 80%;
     
 }
 div#submit > input{
