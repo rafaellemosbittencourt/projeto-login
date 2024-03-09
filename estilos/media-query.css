@@ -56,3 +56,20 @@
         height: 500px;
     }
 }
+@media screen and (min-width:992px){
+    img{
+        display: block;
+        float: left;
+        width: 80%;
+        height: 100%;
+        border-radius: 15px 0px  0px 15px;
+    }
+    form{
+        display: block;
+        float: right;
+}
+    main{
+        width: 80vw;
+        height: 40vh;
+    }
+}
