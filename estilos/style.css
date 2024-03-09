@@ -10,7 +10,7 @@ body{
     background-color: rgba(168, 40, 168, 0.527);
 }
 
-#imagem{
+    img{
     display: block;
     width: 60vw;
     padding: 0px;
@@ -35,22 +35,24 @@ h1{
 p{
     padding: 10px;
     font-size: 0.8em;
+    text-align: justify;
 }
 span{
     background-color: purple;
     color: white;
     margin: 2px;
-    border-radius: 5px;
+    border-radius: 15px;
     width: 80%;
 }
 input{
     margin: 2px;
 }
 input#imail, input#isenha{
+    border: none;
     background-color: aquamarine;
     border-radius: 10px;
     padding: 5px;
-    max-width: 30vw;
+    max-width: 35vw;
     width: 90%;
 }
 div#submit > input{
@@ -58,11 +60,11 @@ div#submit > input{
     border: none;
     padding: 5px;
     width: 80%;
-    border-radius: 5px;
+    border-radius: 15px;
 }
 div#esq-senha > input{
     border-color: #52AAA7;
     padding: 5px;
     width: 80%;
-    border-radius: 5px;
+    border-radius: 15px;
 }

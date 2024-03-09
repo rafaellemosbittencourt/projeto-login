@@ -1,21 +1,58 @@
 @charset "UTF-8";
 
 @media screen and (min-width:768px) and (max-width:992px) {
-   div > img#imagem{
-    float: left;
-    width: 30%;
-    height: 100%;
-    border-radius: 15px 0px 0px 15px;
-   }
-   main{
-    float: right;
-    width: 90%;
-    padding: 0px;
-   }
-   body{
-    background-color: aquamarine;
-   }
-form{
-    display: block;
+    img{
+        float: left;
+        width: 38vw;
+        height: 40vh;
+        border-radius: 15px 0px  0px 15px;
+    }
+    main{
+        padding: 0px;
+        width: 85vw;
+        height: 40vh;
+    }
+    p{
+        font-size: 1em;
+    }
+    form{
+        display: block;
+        float: right;
+    }
+    span{
+        width: 46vw;
+    }
+    input#imail, input#isenha{
+        max-width: 40vw;
+        padding: 10px;
+    }
+    div#submit > input{
+       width: 98%;
+       padding: 10px;
+    }
+    div#esq-senha > input{
+    width: 98%;
+    padding: 10px;
 }
+}
+
+
+@media screen and (min-width:992px){
+    body{
+        background-color: aquamarine;
+    }
+    img{
+        float: left;
+        width: 40%;
+        height: 100%;
+        border-radius: 15px 0px  0px 15px;
+    }
+    form{
+        display: block;
+        float: right;
+}
+    main{
+        width: 990px;
+        height: 500px;
+    }
 }
