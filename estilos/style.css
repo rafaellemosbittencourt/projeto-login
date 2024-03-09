@@ -52,8 +52,8 @@ input#imail, input#isenha{
     background-color: aquamarine;
     border-radius: 10px;
     padding: 5px;
-    max-width: 25vw;
-    width: 90%;
+    width: 40vw;
+    
 }
 div#submit > input{
     background-color: #52AAA7;
