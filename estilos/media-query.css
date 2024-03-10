@@ -15,6 +15,9 @@
         width: 100vw;
         height: 100vh;
     }
+    p{
+        font-size: 0.8em;
+    }
     section{
       width: 70vw;
       height: 300px;
@@ -41,42 +44,42 @@
 }
 
 
-@media screen and (min-width:992px) and (max-width:1200px){
+@media screen and (min-width:992px){
     body{
-        background-color: aquamarine;
+        background-color: rgb(109, 161, 61);
     }
     img{
-        float: left;
-        width: 40%;
-        height: 100%;
-        border-radius: 15px 0px  0px 15px;
+        float: right;
+        width: 50%;
+        height: 350px;
+        border-radius: 0px 15px  15px 0px;
+    }
+    main{
+        padding: 0px;
+        width: 100vw;
+        height: 100vh;
+    }
+    section{
+      max-width: 70vw;
+      height: 350px;
     }
     form{
         display: block;
-        float: right;
-}
-    main{
-        width: 990px;
-        height: 500px;
-    }
-    p{
-        font-size: 0.5em;
-    }
-}
-@media screen and (min-width:1200px){
-    img{
-        display: block;
         float: left;
-        width: 80%;
-        height: 100%;
-        border-radius: 15px 0px  0px 15px;
     }
-    form{
-        display: block;
-        float: right;
+    span{
+        width: 29vw;
+    }
+    input#imail, input#isenha{
+        max-width: 35vw;
+        padding: 8px;
+    }
+    div#submit > input{
+       width: 98%;
+       padding: 10px;
+    }
+    div#esq-senha > input{
+    width: 98%;
+    padding: 10px;
 }
-    main{
-        width: 80vw;
-        height: 40vh;
-    }
 }
