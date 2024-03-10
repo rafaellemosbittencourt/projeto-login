@@ -60,7 +60,7 @@
         height: 100vh;
     }
     section{
-      max-width: 70vw;
+      width:65%;
       height: 350px;
     }
     form{
@@ -68,7 +68,8 @@
         float: left;
     }
     span{
-        width: 29vw;
+        width: 32vw;
+
     }
     input#imail, input#isenha{
         max-width: 35vw;
@@ -79,7 +80,7 @@
        padding: 10px;
     }
     div#esq-senha > input{
-    width: 98%;
+    width: 32vw;
     padding: 10px;
 }
 }
