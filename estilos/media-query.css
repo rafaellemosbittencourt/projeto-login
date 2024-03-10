@@ -1,26 +1,30 @@
 @charset "UTF-8";
 
 @media screen and (min-width:768px) and (max-width:992px) {
+    body{
+        background-color: rgb(168, 78, 78);
+    }
     img{
         float: left;
-        width: 38vw;
-        height: 40vh;
+        width: 30vw;
+        height: 300px;
         border-radius: 15px 0px  0px 15px;
     }
     main{
         padding: 0px;
-        width: 85vw;
-        height: 40vh;
+        width: 100vw;
+        height: 100vh;
     }
-    p{
-        font-size: 1em;
+    section{
+      width: 70vw;
+      height: 300px;
     }
     form{
         display: block;
         float: right;
     }
     span{
-        width: 46vw;
+        width: 39vw;
     }
     input#imail, input#isenha{
         max-width: 35vw;
