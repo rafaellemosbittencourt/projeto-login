@@ -71,7 +71,7 @@
         float: left;
     }
     span{
-        width: 32vw;
+        width: 31vw;
 
     }
     input#imail, input#isenha{
@@ -79,11 +79,11 @@
         padding: 8px;
     }
     div#submit > input{
-       width: 32vw;
+       width: 31vw;
        padding: 10px;
     }
     div#esq-senha > input{
-    width: 32vw;
+    width: 31vw;
     padding: 10px;
 }
 }
