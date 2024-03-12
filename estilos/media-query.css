@@ -6,7 +6,7 @@
     }
     img{
         float: left;
-        width: 30vw;
+        width: 50%;
         height: 270px;
         border-radius: 15px 0px  0px 15px;
     }
@@ -19,7 +19,7 @@
         font-size: 0.8em;
     }
     section{
-      width: 70vw;
+      width: 80vw;
       height: 270px;
     }
     form{
@@ -27,7 +27,7 @@
         float: right;
     }
     span{
-        width: 39vw;
+        width:39vw;
     }
     input#imail, input#isenha{
         max-width: 35vw;
@@ -76,7 +76,7 @@
         padding: 8px;
     }
     div#submit > input{
-       width: 98%;
+       width: 32vw;
        padding: 10px;
     }
     div#esq-senha > input{
