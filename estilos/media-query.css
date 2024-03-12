@@ -6,7 +6,7 @@
     }
     img{
         float: left;
-        width: 50%;
+        width: 40%;
         height: 270px;
         border-radius: 15px 0px  0px 15px;
     }
@@ -27,7 +27,7 @@
         float: right;
     }
     span{
-        width:39vw;
+        width:47.4vw;
     }
     input#imail, input#isenha{
         max-width: 35vw;
@@ -58,6 +58,9 @@
         padding: 0px;
         width: 100vw;
         height: 100vh;
+    }
+    p{
+        font-size: 1em;
     }
     section{
       width:65%;
