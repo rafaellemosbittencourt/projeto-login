@@ -65,6 +65,7 @@ div#submit > input{
 }
 div#submit > input:hover{
     background-color: #3f817f;
+    cursor: pointer;
 }
 div#esq-senha > input{
     border-color: #52AAA7;
@@ -74,4 +75,5 @@ div#esq-senha > input{
 }
 div#esq-senha > input:hover{
     background-color: #6ee2de;
+    cursor: pointer;
 }
