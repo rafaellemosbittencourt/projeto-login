@@ -63,9 +63,15 @@ div#submit > input{
     width: 90%;
     border-radius: 10px;
 }
+div#submit > input:hover{
+    background-color: #3f817f;
+}
 div#esq-senha > input{
     border-color: #52AAA7;
     padding: 5px;
     width: 90%;
     border-radius: 10px;
+}
+div#esq-senha > input:hover{
+    background-color: #6ee2de;
 }
