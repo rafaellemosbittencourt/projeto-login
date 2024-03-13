@@ -51,7 +51,7 @@
     img{
         float: right;
         width: 50%;
-        height: 350px;
+        height: 300px;
         border-radius: 0px 15px  15px 0px;
     }
     main{
@@ -64,7 +64,7 @@
     }
     section{
       width:65%;
-      height: 350px;
+      height: 300px;
     }
     form{
         display: block;
